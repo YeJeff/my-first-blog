@@ -30,6 +30,10 @@ h1, h2, h3, h4 {
     width: 100%;
 }
 
+.post-form .btn {
+    margin-bottom: 5px;
+}
+
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #FFFFFF;
     float: right;
